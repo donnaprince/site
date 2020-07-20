@@ -78,7 +78,7 @@ img{
 	Menu
 =======================================================*/
 body.border-dark .menu-btn > .lines > span{
-	background:#ffffff;;
+	background:#410347;;
 }
 .menu-btn > .lines > .l2{
 	margin:6px 0;
@@ -143,14 +143,14 @@ body.border-dark .menu-btn > .lines > span{
 .main-content > .page-border{
 	position:absolute;
 	border:solid 1px #FFF;
-	border-color: #ffffff;
+	border-color: #91219E;
 	z-index:999;
 	-webkit-transition:border-color 2.5s cubic-bezier(.785,.135,.15,.86);
 	-moz-transition:border-color 2.5s cubic-bezier(.785,.135,.15,.86);
 	transition:border-color 2.5s cubic-bezier(.785,.135,.15,.86);
 }
 body.border-dark .main-content > .page-border{
-	border-color:#91219E;
+	border-color:#fffff;
 }
 .main-content > .border-top,
 .main-content > .border-bottom{
