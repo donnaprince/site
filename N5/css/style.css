@@ -86,7 +86,7 @@ body.border-dark .menu-btn > .lines > span{
 .menu{
 	position:absolute;
 	z-index:399;
-	background:#2E0854;
+	background:#370347; /*color of the menu*/
 	top:0;
 	right:0;
 	height:100%;
@@ -138,7 +138,7 @@ body.border-dark .menu-btn > .lines > span{
 	transition:color .3s cubic-bezier(.785,.135,.15,.86);
 }
 .menu-items > li > a:hover{
-	color:#E6E6FA;
+	color:#E6E6FA; 
 }
 .main-content > .page-border{
 	position:absolute;
