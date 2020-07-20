@@ -67,7 +67,7 @@ h1, h2, h3, h4, h5, h6{
 	border:solid 8px #ffff;
 }
 ::-webkit-scrollbar-thumb:hover{
-	background:#410347;
+	background:#ffff;
 }
 img{
 	max-width:100%;
