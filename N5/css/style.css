@@ -64,7 +64,7 @@ h1, h2, h3, h4, h5, h6{
 }
 ::-webkit-scrollbar-thumb{
 	background:#ffff;
-	border:solid 8px #91219E;
+	border:solid 8px #ffff;
 }
 ::-webkit-scrollbar-thumb:hover{
 	background:#410347;
