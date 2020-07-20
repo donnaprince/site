@@ -67,7 +67,7 @@ h1, h2, h3, h4, h5, h6{
 	border:solid 2px #F0F0F0;
 }
 ::-webkit-scrollbar-thumb:hover{
-	background:#A0A0A0;
+	background:#91219E;
 }
 img{
 	max-width:100%;
@@ -138,7 +138,7 @@ body.border-dark .menu-btn > .lines > span{
 	transition:color .3s cubic-bezier(.785,.135,.15,.86);
 }
 .menu-items > li > a:hover{
-	color:#FFF;
+	color:#91219E;
 }
 .main-content > .page-border{
 	position:absolute;
