@@ -64,7 +64,7 @@ h1, h2, h3, h4, h5, h6{
 }
 ::-webkit-scrollbar-thumb{
 	background:#ffff;
-	border:solid 8px #ffff;
+	border:solid 10px #ffff;
 }
 ::-webkit-scrollbar-thumb:hover{
 	background:#ffff;
@@ -81,7 +81,7 @@ body.border-dark .menu-btn > .lines > span{
 	background:#ffff;;
 }
 .menu-btn > .lines > .l2{
-	margin:6px 0;
+	margin:10px 0;
 }
 .menu{
 	position:absolute;
