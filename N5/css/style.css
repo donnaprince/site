@@ -64,7 +64,7 @@ h1, h2, h3, h4, h5, h6{
 }
 ::-webkit-scrollbar-thumb{
 	background:#D0D0D0;
-	border:solid 2px #F0F0F0;
+	border:solid 10px #F0F0F0;
 }
 ::-webkit-scrollbar-thumb:hover{
 	background:#91219E;
@@ -143,14 +143,14 @@ body.border-dark .menu-btn > .lines > span{
 .main-content > .page-border{
 	position:absolute;
 	border:solid 1px #FFF;
-	border-color:#91219E;
+	border-color: #ffffff;
 	z-index:999;
 	-webkit-transition:border-color 2.5s cubic-bezier(.785,.135,.15,.86);
 	-moz-transition:border-color 2.5s cubic-bezier(.785,.135,.15,.86);
 	transition:border-color 2.5s cubic-bezier(.785,.135,.15,.86);
 }
 body.border-dark .main-content > .page-border{
-	border-color:#91219E;
+	border-color:#ffffff;
 }
 .main-content > .border-top,
 .main-content > .border-bottom{
