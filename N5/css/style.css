@@ -303,24 +303,6 @@ a.btn-custom{
 	background:transparent;
 	border:none;
 }
-.btn-customprojects{ /*button color black for documentation download buttons*/
-	color:#000000;
-	letter-spacing:4px;
-	text-transform:uppercase;
-	text-decoration:none;
-	text-align:center;
-	font-size:11px;
-	font-weight:400;
-	display:inline-block;
-	*display:inline;
-	*zoom:1;
-	line-height:1em;
-	padding:17px 32px;
-	position:relative;
-	z-index:5;
-	background:transparent;
-	border:none;
-}
 .btn-custom:after{
 	content: ' ';
 	position:absolute;
@@ -334,7 +316,7 @@ a.btn-custom{
 	-o-transform:rotate(-4deg);
 	transform:rotate(-4deg);
 	z-index:-1;
-	opacity:0;
+	opacity:1;
 	visibility:hidden;
 	background:rgba(0,0,0,.3);
 	-webkit-transition:all .3s cubic-bezier(.785,.135,.15,.86);
