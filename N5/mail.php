@@ -5,8 +5,6 @@
 		Server-side data validation is also added for good data validation.
 	*/
 	
-         $headers = "MIME-Version: 1.0" . "\r\n";
-         $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 
 	$data['error'] = false;
 	
